@@ -1,0 +1,1 @@
+.registration-page{min-height:0;align-items:start}.registration-page .registration-visual{align-self:start;position:sticky;top:84px;height:calc(100vh - 84px);min-height:0}@media(max-width:900px){.registration-page .registration-visual{position:relative;top:auto;height:calc(100vh - 84px);min-height:560px}}

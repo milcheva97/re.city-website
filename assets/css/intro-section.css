@@ -1,0 +1,6 @@
+.intro-grid { align-items: start; }
+.intro-side { align-self: start; }
+.intro-side p { margin: 0; color: #68716d; font-size: 16px; line-height: 1.75; }
+.intro-contact { display: inline-flex; align-items: center; justify-content: space-between; gap: 55px; min-width: 190px; margin-top: 30px; padding: 16px 18px; border: 1px solid #17221e; color: #17221e; font: 600 11px 'Manrope', sans-serif; text-transform: uppercase; letter-spacing: .1em; transition: background .25s ease, color .25s ease; }
+.intro-contact span { font-size: 16px; }
+.intro-contact:hover { background: #17221e; color: #fff; }

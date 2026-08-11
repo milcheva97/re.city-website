@@ -1,0 +1,24 @@
+# Local application data
+/data/
+/uploads/
+
+# Codex working and delivery folders
+/work/
+/outputs/
+
+# Local environment
+.env
+.env.*
+!.env.example
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
